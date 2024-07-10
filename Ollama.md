@@ -14,5 +14,5 @@ src = https://www.youtube.com/watch?v=he0_W5iCv-I
 
 ## How to use it?
 
-- start at ollama.com
+- start at ollama.com 
 - 
