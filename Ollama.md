@@ -15,4 +15,10 @@ src = https://www.youtube.com/watch?v=he0_W5iCv-I
 ## How to use it?
 
 - start at https://ollama.com/
-- this link might be helpful for Arch users: https://www.jeremymorgan.com/blog/generative-ai/how-to-install-ollama-web-ui-arch-linux/
+- download ollama for your OS and install it
+- this might be helpful for Arch users: https://www.jeremymorgan.com/blog/generative-ai/how-to-install-ollama-web-ui-arch-linux/
+- once you've installed ollama, start VS Code and open a terminal window
+- 
+
+
+@1/10
