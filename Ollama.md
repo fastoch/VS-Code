@@ -57,7 +57,10 @@ src = https://www.youtube.com/watch?v=he0_W5iCv-I
 
 - select the existing custom command and press Shift+Ctrl+Alt + the down arrow to copy-paste it
 - put a comma after the first custom command (after the closing curly bracket)
-- set the "name" value to "step" and set the "prompt" value to "explain the selected code step by step"
+- in this new custom command:
+  - set the "name" value to "step"
+  - set the "prompt" value to "explain the selected code step by step"
+  - set the "description" value to "code explanation"
 
 
 
