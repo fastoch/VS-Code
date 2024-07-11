@@ -40,24 +40,26 @@ src = https://www.youtube.com/watch?v=he0_W5iCv-I
 - https://www.continue.dev/
 - in VS code, go to the Extensions menu and search for "continue"
 - install the extension
-- a Continue icon will appear in the left pane, click it
-- click on the gear icon to configure Continue
-- inside this config.json file, you can see:
-  - the default model listed at the top
-  - the custom commands
-    - for ex, if we type "test" into the chat, it will run the specified prompt against the current AI model
-  - then you can specify the desired tabAutocompleteModel
-
-### Customizing config.json
-
-- select the existing custom command and press Shift+Ctrl+Alt + the down arrow to copy-paste it
-- put a comma after the first custom command (after the closing curly bracket)
-- 
 
 >[!tip]
 >when opening Continue, you might get recommendations on the splash screen, just skip them, we don't want the splash screen
 
+- a Continue icon will appear in the left pane, click it
+- click on the gear icon to configure Continue
+- inside this config.json file, you can see:
+  - the available models
+    - the default model is listed at the top
+  - the custom commands
+    - for ex, if we type "test" into the chat, it will run the specified prompt against the current AI model
+  - then you can specify the desired tabAutocompleteModel
+
+### Custom command example
+
+- select the existing custom command and press Shift+Ctrl+Alt + the down arrow to copy-paste it
+- put a comma after the first custom command (after the closing curly bracket)
+- set the "name" value to "step" and set the "prompt" value to "explain the selected code step by step"
 
 
 
-@5/10
+
+@6/10
