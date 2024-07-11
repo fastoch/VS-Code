@@ -67,11 +67,12 @@ src = https://www.youtube.com/watch?v=he0_W5iCv-I
 
 ## Code Chats & Autocompletions
 
-### AI-Generated Code 
+### AI-Generated Code example
 
 - we can create a .js file named "convertToMySQLTimestamp.js"
-- after that we can press Ctrl + I to 
+- after that we can press Ctrl+I to provide instructions that will generate code for us
+- we could type "write a function that accepts a javascript date as a parameter and returns a MySQL timestamp"
 
 
 
-@6/10
+@7/10
