@@ -28,7 +28,15 @@ src = https://www.youtube.com/watch?v=he0_W5iCv-I
 - go to this page: https://evalplus.github.io/leaderboard.html
 - this page is comparing free and paid models
 - select your free model and go back to https://ollama.com/ to search for this model
-- 
+- copy the command that will install the model: `ollama run <model_name>`
+- paste it in your terminal window in VS Code, and run it
+- downloading the model can take time depending on your connection and the model size
+
+---
+
+## Continue for VS Code
+
+- now that you've installed Ollama and the desired free model, you need to 
 
 
 
