@@ -36,7 +36,8 @@ src = https://www.youtube.com/watch?v=he0_W5iCv-I
 
 ## Continue for VS Code
 
-- now that you've installed Ollama and the desired free model, you need to 
+- now that you've installed Ollama and the desired free model, you need to add the ***Continue*** extension to VS code
+- 
 
 
 
