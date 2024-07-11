@@ -61,7 +61,7 @@ src = https://www.youtube.com/watch?v=he0_W5iCv-I
   - set the "name" value to "step"
   - set the "prompt" value to "explain the selected code step by step"
   - set the "description" value to "code explanation"
-
+- now we can try this out in the chat window
 
 
 
