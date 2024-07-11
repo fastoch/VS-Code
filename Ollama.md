@@ -26,9 +26,11 @@ src = https://www.youtube.com/watch?v=he0_W5iCv-I
 ## Add an Open Source Model / LLM (large language model)
 
 - go to this page: https://evalplus.github.io/leaderboard.html
+- this page is comparing free and paid models
+- select your free model and go back to https://ollama.com/ to search for this model
 - 
 
 
 
 
-@1/10
+@3/10
