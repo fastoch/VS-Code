@@ -40,9 +40,9 @@ src = https://www.youtube.com/watch?v=he0_W5iCv-I
 - https://www.continue.dev/
 - in VS code, go to the Extensions menu and search for "continue"
 - install the extension
-- a Continue icon will
+- a Continue icon will appear in the left pane
 
 
 
 
-@3/10
+@4/10
