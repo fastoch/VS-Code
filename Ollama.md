@@ -21,6 +21,8 @@ src = https://www.youtube.com/watch?v=he0_W5iCv-I
 - run `ollama --version` to make sure it's been installed and is recognized by your system
 - if this cmd is not recognized, reboot
 
+---
+
 ## Add an Open Source Model / LLM (large language model)
 
 - go to this page: https://evalplus.github.io/leaderboard.html
