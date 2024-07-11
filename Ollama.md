@@ -40,9 +40,14 @@ src = https://www.youtube.com/watch?v=he0_W5iCv-I
 - https://www.continue.dev/
 - in VS code, go to the Extensions menu and search for "continue"
 - install the extension
-- a Continue icon will appear in the left pane
+- a Continue icon will appear in the left pane, click it
+- click on the gear icon to configure Continue
+- 
+
+>[!tip]
+>when opening Continue, you might get recommendations on the splash screen, just skip them
 
 
 
 
-@4/10
+@5/10
