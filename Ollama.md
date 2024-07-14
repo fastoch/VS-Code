@@ -91,6 +91,6 @@ sources:
 
 ### Other example
 
-- create a .py file anmed "api.py" 
+- create a .py file named "api.py" 
 - press Ctrl +I and type "write a python rest api using fastapi and sqlalchemy"
 
