@@ -1,0 +1,7 @@
+- open/close terminal = Ctrl+J
+- go to line = Ctrl+G
+- go to Github menu = Ctrl+Shift+G
+- go to Extensions menu = Ctrl+Shift+E
+- copy line or current selection = Ctrl+Alt+Shit + down arrow
+- comment/uncomment selection = Ctrl+/ (Ctrl+Shift+: on AZERTY)
+- 
