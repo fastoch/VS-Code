@@ -7,3 +7,6 @@
 - hide menu bar: View > Appearance > uncheck Menu bar
 - access hidden menu bar: Alt
 - 
+
+**Most used shortcuts:**
+https://www.crio.do/blog/vs-code-shortcuts/  
